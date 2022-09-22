@@ -15,15 +15,26 @@ public class No10250 {
          */
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+        StringBuilder sb = new StringBuilder();
 
-        int T = Integer.parseInt(st.nextToken()); //테스트 데이터
-        int H = Integer.parseInt(st.nextToken()); //호텔의 층 수
-        int W = Integer.parseInt(st.nextToken()); //각 층의 방 수
-        int N = Integer.parseInt(st.nextToken()); //N번째 손님
+        int T = Integer.parseInt(br.readLine()); //테스트 데이터
+        //호텔의 층 수(H), 각 층의 방 수(W), N번째 손님
 
         for (int i = 0; i < T; i++) {
+            StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
+            int H = Integer.parseInt(st.nextToken());
+
+            //W는 필요하지 않음
+            // 백준에서 테스트할 때 N이 H*W의 값보다 크게 주어지지 않음 -> 테스트케이스에서 불가능한 예외 케이스를 넣지 않음
+
+            st.nextToken();
+
+            int N = Integer.parseInt(st.nextToken());
+
+            if (N % H == 0) sb.append((H * 100) + (N / H)).append('\n');
+            else sb.append(((N % H) * 100) + ((N / H) + 1)).append('\n');
         }
+        System.out.print(sb);
     }
 }
