@@ -20,13 +20,13 @@ public class No2292 {
         int count = 1; //최단 루트
         int range = 2; //범위 (거리가 +1씩 늘어날 때, 범위는 +6)
 
-        if (N == 1) System.out.println(1); //거리가 1이면 범위는 1
+        if (N == 1) System.out.print(1); //거리가 1이면 범위는 1
         else {
-            while (range <= N) {
-                range += 6 * count;
+            while (range <= N) { //범위가 N보다 커지기 전까지 반복
+                range = range + (6 * count);
                 count++;
             }
+            System.out.print(count);
         }
-        System.out.print(count);
     }
 }
