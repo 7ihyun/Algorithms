@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="202e26fc-4a4d-44ef-80f7-be45f54a8bcf" name="Changes" comment="Programmers Lv.1 with Java">
+      <change beforePath="$PROJECT_DIR$/../Daily Coding/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Daily Coding/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Daily Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Daily Coding/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/.idea/Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/AopApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Pointcuts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/test/java/start/aop/AopApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/test/java/start/aop/AopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/AutoDependencyConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/BeanDefinitionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/ComponentScanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/DependencyConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/Section2Week2Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/SingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/coffee/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/coffee/CoffeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/coffee/CoffeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/coffee/CoffeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/member/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/member/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/member/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/member/MemberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/singleton/SingletonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/test/java/com/codestates/section2week4/Section2Week4ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week4/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section2-week4/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/java/com/codestates/Section3Week1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/java/com/codestates/coffee/CoffeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/java/com/codestates/member/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/java/com/codestates/order/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/test/java/com/codestates/Section3Week1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/Section3Week4Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberPatchDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberPostDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/order/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/order/OrderPostDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/validator/NotSpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/validator/NotSpaceValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/test/java/com/codestates/Section3Week4ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/Section3Week4Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberPatchDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberPostDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/order/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/order/OrderPostDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/validator/NotSpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/validator/NotSpaceValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/test/java/com/codestates/Section3Week4ApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GUlKJxMLnZ8perC57bghTTBHqh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Hello/Algorithms/Programmers",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Multiplication">
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_1.Average" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Avg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_1.Avg" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Minus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_1.Minus" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_1.Multiplication" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_1.SumOfDivisor" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Multiplication" />
+        <item itemvalue="Application.Minus" />
+        <item itemvalue="Application.SumOfDivisor" />
+        <item itemvalue="Application.Average" />
+        <item itemvalue="Application.Avg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="202e26fc-4a4d-44ef-80f7-be45f54a8bcf" name="Changes" comment="" />
+      <created>1666450983174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666450983174</updated>
+      <workItem from="1666869903492" duration="2647000" />
+    </task>
+    <task id="LOCAL-00001" summary="Programmers Lv.1 with Java">
+      <created>1666451034602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666451034602</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Programmers Lv.1 with Java">
+      <created>1666506001341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666506001341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programmers Lv.1 with Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers Lv.1 with Java" />
+  </component>
+</project>
