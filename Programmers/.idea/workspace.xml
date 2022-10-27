@@ -2,115 +2,180 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="202e26fc-4a4d-44ef-80f7-be45f54a8bcf" name="Changes" comment="Programmers Lv.1 with Java">
-      <change beforePath="$PROJECT_DIR$/../Daily Coding/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Daily Coding/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Daily Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Daily Coding/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/.idea/Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/AopApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Aspect6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/java/start/aop/order/aop/Pointcuts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/test/java/start/aop/AopApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/aop/src/test/java/start/aop/AopTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/AutoDependencyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/BeanDefinitionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/ComponentScanTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/DependencyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/Section2Week2Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/SingletonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/coffee/Coffee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/coffee/CoffeeRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/coffee/CoffeeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/coffee/CoffeeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/member/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/member/MemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/member/MemberService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/member/MemberTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/java/com/codestates/section2week2/singleton/SingletonService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week2/src/test/java/com/codestates/section2week4/Section2Week4ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week4/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week4/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week4/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section2-week4/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/java/com/codestates/Section3Week1Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/java/com/codestates/coffee/CoffeeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/java/com/codestates/member/MemberController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/java/com/codestates/order/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week1/src/test/java/com/codestates/Section3Week1ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/Section3Week4Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberPatchDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberPostDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/member/MemberService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/order/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/order/OrderPostDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/validator/NotSpace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/java/com/codestates/validator/NotSpaceValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/section3-week4/src/test/java/com/codestates/Section3Week4ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/Section3Week4Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberPatchDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberPostDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/member/MemberService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/order/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/order/OrderPostDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/validator/NotSpace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/java/com/codestates/validator/NotSpaceValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/section3-week4/src/test/java/com/codestates/Section3Week4ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/Baekjoon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No1000.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No1001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No1008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10171.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10172.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10430.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10718.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10869.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10926.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10998.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No18108.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No25083.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No2557.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No2588.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No3003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No1330.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No14681.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No2480.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No2525.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No2753.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No2884.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No9498.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No10871.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No10950.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No10951.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No10952.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No11021.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No11022.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No1110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No15552.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No2438.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No2439.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No25304.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No2739.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No8393.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No10818.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No1546.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No2562.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No3052.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No4344.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No8958.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_5/No1065.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_5/No15596.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_5/No4673.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No10809.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No1152.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No1157.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No11654.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No11720.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No1316.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No2675.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No2908.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No2941.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No5622.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No10250.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No10757.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No1193.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No1712.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No2292.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No2775.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No2839.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No2869.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_8/No11653.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_8/No1929.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_8/No1978.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_8/No2581.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/CodeUp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1017.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1018.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1019.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1020.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1021.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1022.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1025.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1026.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1027.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1028.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1029.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1030.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1031.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1032.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1033.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1034.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1035.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1036.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1037.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1038.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1039.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1040.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1041.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1042.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1043.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1044.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1045.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1046.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1047.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1048.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1049.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1050.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1051.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1052.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1053.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1054.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1055.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1056.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1057.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1058.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1059.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1060.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1061.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1062.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1063.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1064.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1065.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1066.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1067.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1068.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1069.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1070.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1071.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1072.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1073.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1074.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1075.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1076.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1077.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1078.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1079.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1080.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1081.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1082.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1083.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1084.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1085.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1086.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1087.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1088.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1089.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1090.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1091.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1092.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1093.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1094.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1095.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1096.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1097.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1098.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1099.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Daily Coding" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programmers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +191,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -145,7 +210,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Hello/Algorithms/Programmers",
+    "last_opened_file_path": "C:/Hello/Algorithms/Daily Coding",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   },
   "keyToStringList": {
@@ -241,6 +306,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666450983174</updated>
       <workItem from="1666869903492" duration="2647000" />
+      <workItem from="1666874980645" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Programmers Lv.1 with Java">
       <created>1666451034602</created>
