@@ -1,4 +1,4 @@
-package Level_1;
+package Level_0;
 
 public class Quotient {
     public static void main(String[] args) {

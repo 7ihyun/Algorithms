@@ -1,4 +1,4 @@
-package Level_1;
+package Level_0;
 
 public class Pizza1 {
     public static void main(String[] args) {
