@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="202e26fc-4a4d-44ef-80f7-be45f54a8bcf" name="Changes" comment="Programmers Lv.1 with Java">
+    <list default="true" id="202e26fc-4a4d-44ef-80f7-be45f54a8bcf" name="Changes" comment="Programmers Lv.0 with Java">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-10-23__3_201.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-10-23_오후_3_201/EvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-10-23_오후_3_201/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Baekjoon/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Baekjoon/Baekjoon.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No1000.java" beforeDir="false" />
@@ -173,9 +180,31 @@
       <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1097.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1098.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1099.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Daily Coding" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Programmers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project/ToDoApp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/src/main/java/project/ToDoApp/ToDoAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project/ToDoApp/src/main/java/project/ToDoApp/ToDoAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/src/main/java/com/codestates/practicegithubActiondeploy/PracticeGithubActionDeployApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/src/test/java/com/codestates/practicegithubActiondeploy/PracticeGithubActionDeployApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/src/main/java/com/codestates/practicegithubActiondeploy/PracticeGithubActionDeployApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/src/test/java/com/codestates/practicegithubActiondeploy/PracticeGithubActionDeployApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,8 +238,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Hello/Algorithms/Daily Coding",
+    "last_opened_file_path": "C:/Hello/Algorithms/Programmers",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   },
   "keyToStringList": {
@@ -221,13 +251,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Multiplication">
-    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level_1.Average" />
+  <component name="RunManager" selected="Application.Point">
+    <configuration name="Ant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_0.Ant" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level_1.*" />
+          <option name="PATTERN" value="Level_0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Avg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level_1.Avg" />
+    <configuration name="Beads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_0.Beads" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level_1.*" />
+          <option name="PATTERN" value="Level_0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level_1.Minus" />
+    <configuration name="MorseCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_0.MorseCode" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level_1.*" />
+          <option name="PATTERN" value="Level_0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level_1.Multiplication" />
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_0.Point" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level_1.*" />
+          <option name="PATTERN" value="Level_0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level_1.SumOfDivisor" />
+    <configuration name="RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_0.RockPaperScissors" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Level_1.*" />
+          <option name="PATTERN" value="Level_0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Multiplication" />
-        <item itemvalue="Application.Minus" />
-        <item itemvalue="Application.SumOfDivisor" />
-        <item itemvalue="Application.Average" />
-        <item itemvalue="Application.Avg" />
+        <item itemvalue="Application.Point" />
+        <item itemvalue="Application.Beads" />
+        <item itemvalue="Application.RockPaperScissors" />
+        <item itemvalue="Application.MorseCode" />
+        <item itemvalue="Application.Ant" />
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +337,7 @@
       <updated>1666450983174</updated>
       <workItem from="1666869903492" duration="2647000" />
       <workItem from="1666874980645" duration="13000" />
+      <workItem from="1671451996007" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="Programmers Lv.1 with Java">
       <created>1666451034602</created>
@@ -322,7 +353,119 @@
       <option name="project" value="LOCAL" />
       <updated>1666506001341</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Programmers Lv.1 with Java">
+      <created>1667219187391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667219187391</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Programmers Lv.1 with Java">
+      <created>1667305047743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667305047743</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Programmers Lv.1 with Java">
+      <created>1667483252624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667483252624</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Programmers Lv.1 with Java">
+      <created>1667571318881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667571318881</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Programmers Lv.1 with Java">
+      <created>1667572022441</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667572022441</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Programmers Lv.0 with Java">
+      <created>1667573336126</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667573336126</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Programmers Lv.0 with Java">
+      <created>1667653398553</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667653398553</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Programmers Lv.0 with Java">
+      <created>1667734818885</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667734818885</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Programmers Lv.0 with Java">
+      <created>1667827411417</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667827411417</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Programmers Lv.0 with Java">
+      <created>1667912098828</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667912098828</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Programmers Lv.0 with Java">
+      <created>1667995167722</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667995167722</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Programmers Lv.0 with Java">
+      <created>1668263349852</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668263349852</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Programmers Lv.0 with Java">
+      <created>1668776896690</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668776896690</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Programmers Lv.0 with Java">
+      <created>1668862217487</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668862217487</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Programmers Lv.0 with Java">
+      <created>1671020288180</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1671020288180</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Programmers Lv.0 with Java">
+      <created>1671453002153</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1671453002153</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,6 +484,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Programmers Lv.1 with Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programmers Lv.1 with Java" />
+    <MESSAGE value="Programmers Lv.0 with Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programmers Lv.0 with Java" />
   </component>
 </project>
