@@ -5,7 +5,7 @@ import java.util.*;
 public class Hamburger {
     public static void main(String[] args) {
         int[] arr = {2, 1, 1, 2, 3, 1, 2, 3, 1};
-        System.out.println("포장하는 햄버거 개수" + Hamburger.solution(arr));
+        System.out.println("포장하는 햄버거 개수 : " + Hamburger.solution(arr));
     }
     // ingredient의 원소는 1, 2, 3 중 하나의 값
     // 순서대로 빵, 야채, 고기를 의미
