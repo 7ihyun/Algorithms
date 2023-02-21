@@ -2,209 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="202e26fc-4a4d-44ef-80f7-be45f54a8bcf" name="Changes" comment="Programmers Lv.0 with Java">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-10-23__3_201.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-10-23_오후_3_201/EvenOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-10-23_오후_3_201/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Level_0/ThrowingABall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/Baekjoon.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No1000.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No1001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No1008.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10171.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10172.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10430.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10718.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10869.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10926.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No10998.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No18108.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No25083.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No2557.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No2588.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_1/No3003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No1330.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No14681.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No2480.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No2525.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No2753.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No2884.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_2/No9498.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No10871.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No10950.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No10951.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No10952.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No11021.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No11022.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No1110.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No15552.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No2438.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No2439.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No25304.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No2739.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_3/No8393.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No10818.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No1546.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No2562.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No3052.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No4344.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_4/No8958.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_5/No1065.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_5/No15596.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_5/No4673.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No10809.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No1152.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No1157.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No11654.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No11720.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No1316.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No2675.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No2908.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No2941.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_6/No5622.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No10250.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No10757.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No1193.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No1712.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No2292.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No2775.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No2839.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_7/No2869.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_8/No11653.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_8/No1929.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_8/No1978.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/src/Level_8/No2581.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/CodeUp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1007.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1008.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1010.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1011.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1012.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1013.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1014.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1015.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1017.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1019.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1020.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1021.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1022.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1023.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1024.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1025.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1026.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1027.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1028.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1029.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1030.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1031.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1032.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1033.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1034.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1035.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1036.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1037.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1038.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1039.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1040.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1041.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1042.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1043.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1044.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1045.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1046.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1047.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1048.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1049.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1050.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1051.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1052.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1053.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1054.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1055.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1056.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1057.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1058.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1059.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1060.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1061.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1062.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1063.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1064.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1065.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1066.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1067.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1068.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1069.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1070.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1071.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1072.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1073.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1074.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1075.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1076.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1077.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1078.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1079.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1080.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1081.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1082.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1083.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1084.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1085.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1086.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1087.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1088.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1089.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1090.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1091.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1092.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1093.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1094.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1095.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1096.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1097.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1098.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CodeUp/src/No1099.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Programmers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project/ToDoApp/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/src/main/java/project/ToDoApp/ToDoAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project/ToDoApp/src/main/java/project/ToDoApp/ToDoAppApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/src/main/java/com/codestates/practicegithubActiondeploy/PracticeGithubActionDeployApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice code/practice-githubAction-deploy/src/test/java/com/codestates/practicegithubActiondeploy/PracticeGithubActionDeployApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/src/main/java/com/codestates/practicegithubActiondeploy/PracticeGithubActionDeployApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice-githubAction-deploy/src/test/java/com/codestates/practicegithubActiondeploy/PracticeGithubActionDeployApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Daily Coding" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/src/main/java/project/ToDoApp/ToDoAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project/ToDoApp/src/test/java/project/ToDoApp/ToDoAppApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solution code/Section 3/be-solution-api-documentation" beforeDir="false" afterPath="$PROJECT_DIR$/../../solution code/Section 3/be-solution-api-documentation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solution code/Section 3/be-solution-testing-slice" beforeDir="false" afterPath="$PROJECT_DIR$/../../solution code/Section 3/be-solution-testing-slice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solution code/Section 4/Spring Security" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,35 +63,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point">
-    <configuration name="Ant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level_0.Ant" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Level_0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThrowingABall">
     <configuration name="Beads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Level_0.Beads" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Level_0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MorseCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level_0.MorseCode" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
@@ -317,13 +103,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThrowingABall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_0.ThrowingABall" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level_0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimensions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level_0.TwoDimensions" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level_0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThrowingABall" />
+        <item itemvalue="Application.TwoDimensions" />
         <item itemvalue="Application.Point" />
         <item itemvalue="Application.Beads" />
         <item itemvalue="Application.RockPaperScissors" />
-        <item itemvalue="Application.MorseCode" />
-        <item itemvalue="Application.Ant" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +149,11 @@
       <updated>1666450983174</updated>
       <workItem from="1666869903492" duration="2647000" />
       <workItem from="1666874980645" duration="13000" />
-      <workItem from="1671451996007" duration="1010000" />
+      <workItem from="1671451996007" duration="1153000" />
+      <workItem from="1671458523003" duration="65000" />
+      <workItem from="1672836348001" duration="897000" />
+      <workItem from="1672881203911" duration="32000" />
+      <workItem from="1676974092266" duration="942000" />
     </task>
     <task id="LOCAL-00001" summary="Programmers Lv.1 with Java">
       <created>1666451034602</created>
@@ -465,7 +281,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671453002153</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="modify">
+      <created>1671453085536</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1671453085536</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Programmers Lv.0 with Java">
+      <created>1672837038272</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672837038272</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,6 +314,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Programmers Lv.1 with Java" />
+    <MESSAGE value="modify" />
     <MESSAGE value="Programmers Lv.0 with Java" />
     <option name="LAST_COMMIT_MESSAGE" value="Programmers Lv.0 with Java" />
   </component>
