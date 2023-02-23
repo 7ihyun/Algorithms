@@ -10,8 +10,27 @@ public class InsufficientAmount {
         long answer = 0;
         long sum = 0;
 
-        for (int)
+        for (int i = 1; i < count + 1; i++) {
+            sum += price * i;
+        }
+
+        if (sum > money) {
+            answer = sum - money;
+        }
 
         return answer;
     }
 }
+
+// 다른 풀이
+//        return Math.max(price * (count * (count + 1) / 2) - money, 0);
+
+
+//        long answer = money;
+//
+//        for (int i = 0; cnt < count; i++) {
+//        answer -= (price * (i + 1));
+//        }
+//
+//        return (answer > 0 ? 0 : -answer);
+
